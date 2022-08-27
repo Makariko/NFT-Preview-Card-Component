@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body{
+background: #0D192C;
+width: 1440px;
+height: 900px;
+}
+
+.container {
+background: #15263F;
+box-shadow: 0px 25px 50px rgba(0, 0, 0, 0.0952917);
+border-radius: 15px;
+position: absolute;
+width: 350px;
+height: 596px;
+Top: 152px;
+Left: 545px;
+}
+
+#equilibrium {
+height: 302px;
+width: 302px;
+border-radius: 8px;
+padding: 24px;
+}
+
+#equilibrium:hover{
+ color: #00FFF8;
+  cursor: pointer;
+}
+.Text1{
+  font-family: 'Outfit', sans-serif;
+  font-style: normal;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #FFFFFF;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+
+.Text1:hover{
+ color: #00FFF8;
+  cursor: pointer;
+}
+
+
+.Text2{
+styleName: Body;
+font-family: Outfit;
+font-size: 18px;
+font-weight: 300;
+line-height: 26px;
+letter-spacing: 0px;
+text-align: left;
+color: #8BACD9;
+padding-left: 24px;
+padding-right: 24px;
+}
+
+
+.SVG-Etherium{
+height: 18px;
+width: 11px;
+padding-left: 24px;
+}
+
+.Text3{
+color: #00FFF8;
+styleName: Caption (Bold);
+font-family: Outfit;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: left;
+height: 20px;
+width: 75px;
+left: 17.48480224609375px;
+top: 0px;
+border-radius: nullpx;
+padding-left: 6.48px;
+}
+
+
+.SVG-clock{
+height: 16px;
+width: 16px;
+left: 203.30499267578125px;
+top: 2.67388916015625px;
+border-radius: 0px;
+padding-left: 228.64px;
+}
+
+.Text4{
+styleName: Caption;
+font-family: Outfit;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: left;
+color: #8BACD9;
+}
+
+.line{
+  background: #2E405A;
+  border: 1px #2E405A;
+  border-radius: 5px;
+  height: 1px;
+  width: 302px;
+  left: 24px;
+ top: 514px;
+ border-radius: 0px;
+
+}
+
+
+#Avatar{
+border: 1px solid #FFFFFF;
+border-radius: 50%;
+height: 33px;
+width: 33px;
+left: 24px;
+top: 537px;
+margin-left: 24px;
+border: 1px solid #FFFFFF;
+border-radius: 50%;
+}
+
+
+.Text5{
+styleName: Caption;
+font-family: Outfit;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: left;
+color: #8BACD9;
+left: 73px;
+top: 537px;
+border-radius: 0px;
+padding-left:16px;
+}
+
+.Text6{
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: #FFFFFF;
+}
+
+.Text6:hover{
+  color: #00FFF8;
+  cursor: pointer;
+}
